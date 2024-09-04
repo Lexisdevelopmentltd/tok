@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/stories_editor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/stories_editor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/stories_editor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/flare_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/flare_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/flare_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/ffmpeg_kit_flutter_full_gpl/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/ffmpeg_kit_flutter_full_gpl/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/ffmpeg_kit_flutter_full_gpl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/awesome_dialog/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/awesome_dialog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/awesome_dialog/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/pusher_client/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/pusher_client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/pusher_client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/laravel_chat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/laravel_chat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/laravel_chat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/helpers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/helpers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/helpers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/emoji_picker_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/emoji_picker_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/emoji_picker_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/modal_gif_picker-0.0.1/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/modal_gif_picker-0.0.1/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/modal_gif_picker-0.0.1/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/flutter_swiper_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/flutter_swiper_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/flutter_swiper_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/gallery_media_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/gallery_media_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/gallery_media_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/modal_gif_picker-0.0.1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/modal_gif_picker-0.0.1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages_list/modal_gif_picker-0.0.1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
